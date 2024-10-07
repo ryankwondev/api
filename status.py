@@ -1,6 +1,6 @@
 status = {
-    200: "Just good. Nothing to see here. ( ͡° ͜ʖ ͡°)",
-    404: "Cannot find me. (╯°□°）╯︵ ┻━┻",
-    410: "Suicided. Rest in peace. (⌣́_⌣̀)",
-    503: "Sick. Maybe recuperating in the hospital. (´-ι_-｀)"
+    200: "그냥 있음",
+    404: "못 찾을 것 같음",
+    410: "아마 자살함",
+    503: "아픔. 병원 가야함 (이미 병원에 있을지도)"
 }
